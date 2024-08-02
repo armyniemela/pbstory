@@ -1,4 +1,4 @@
-# pbstory
+# Project03: Pbstory
 
 
 I did the groundwork for this project at the beginning of Lede: I completed Aaron's homework using PowerPoint, which aimed to practice creating a map in Illustrator and layer storytelling – essentially a precursor to scrollytelling. So, I had done the legwork, collecting data from stores. I had also created an Excel sheet from the data.
