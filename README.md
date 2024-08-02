@@ -9,7 +9,7 @@ The purpose of this project is to move beyond the preliminary stage. The skills 
 
 The Jupyter notebooks (pbdata + morepbdata), where I processed one of my tables (pbmapdatanew, df), are included in the repo. After Jeremy's tidy-data lectures, it should have been easier, but I definitely need more (more, more, more) practice!
 
-At this point, I must mention that I originally intended to make a piece about how [marathon results] (https://aims-worldrunning.org) have [evolved] (https://www.runnersworld.com) in the 2000s. I even scraped data for that, but I realized that the data manipulation would have taken the most time, and I didn't want it to consume too much time. However, I did try scraping, which was a skill I initially wanted to test in this project.
+At this point, I must mention that I originally intended to make a piece about how marathon results have evolved in the 2000s. I even scraped data for that, but I realized that the data manipulation would have taken the most time, and I didn't want it to consume too much time. However, I did try scraping, which was a skill I initially wanted to test in this project.
 
 ### Viz and HTML
 
