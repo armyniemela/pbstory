@@ -18,6 +18,7 @@ I had already created a map for peanut butter stores. Now, I made refinements an
 I took the photos myself in a nearby store and at home, and I processed them in Photoshop. I also spent time on the color scheme of the story, which I changed from the initial plan: I thought the theme "Brat" was fitting, so I used colors and fonts related to this theme.
 
 For the website layout, I combined Soman's templates, particularly using the scrolly-ai2html template.
+https://jsoma.github.io/page-templates/scrolly-ai2html/index.html
 
 ### Website
 
