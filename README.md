@@ -3,7 +3,7 @@
 In project03 the skills I wanted to learn were *creating a scrollytelling webpage and utilizing ai2html*.
 I also wanted to try *scraping*, but I wanted the main focus of the project to be on *building visual elements differently* than I had done in previous projects.
 
-I did the groundwork for this project at the beginning of Lede: I completed Aaron's homework using PowerPoint. That homework aimed to practice creating a map and layer storytelling – essentially a precursor to scrollytelling on a webpage. So, before I began with Project03: Pbstory, I had done the legwork, collecting data from Prospect Heights' stores. I had also created an Excel sheet from the data and done a simple map in Illustrator.
+I did the groundwork for this project at the beginning of Lede: I completed Aaron's exercise 3: Make a "Slide Story" using PowerPoint. That homework aimed to practice creating a map and layer storytelling – essentially a precursor to scrollytelling on a webpage. So, before I began with Project03: Pbstory, I had done the legwork, collecting data from Prospect Heights' stores. I had also created an Excel sheet from the data and done a simple map in Illustrator.
 
 ### Information Gathering and Processing
 
