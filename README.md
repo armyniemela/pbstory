@@ -7,12 +7,12 @@ I did the groundwork for this project at the beginning of Lede: Aaron's exercise
 
 ### Data or not? 
 
-I originally intended to make a piece about how [marathon results](https://aims-worldrunning.org/statistics/world_fastest_times/2024.html#world-fastest-times) have evolved. I wanted to see what kind of changes there have been in the fastest times of all major marathons after the introduction of a special running shoe type, the bouncy "super shoe" year 2020. This has been claimed in recent years, as both men and women have improved world records. 
+I originally intended to make a piece about how [marathon results](https://aims-worldrunning.org/statistics/world_fastest_times/2024.html#world-fastest-times) have evolved. I wanted to see what kind of changes there have been in the fastest times of all major marathons after the introduction of a special running shoe type, the bouncy "super shoe" year 2020. The shoes are mentioned as one major reason why both men and women have improved marathon world records. 
 
 I scraped data for that (50 best M & F times 2000-2024), but I realized that the data manipulation would have taken so much work, and I didn't want it to consume my time. I found a simpler page and data a bout [marathon result progression](https://www.runnersworld.com/races-places/a20823734/these-are-the-worlds-fastest-marathoners-and-marathon-courses/) and scraped that and cleaned it but then there was no story to tell since data did not provide an answer to my original question.
 However, I did some scraping with beautiful soup, which was a skill I initially wanted to test in this project.
 
-The Jupyter notebooks (pbdata + morepbdata), where I processed my tables (pbmapdatanew, df), are included in the repo. 
+The Jupyter notebooks (pbdata + morepbdata), where I processed my tables (pbmapdatanew, df), are included in the repo. The dataset is, of course, very small compared to what was collected for marathon times
 
 ### Viz and brat
 
