@@ -14,7 +14,7 @@ However, I did some scraping with beautiful soup, which was a skill I initially 
 
 ### Viz and HTML
 
-I constructed the map so that I could make it into a scrollytelling format. I also used ai2html in the jar graphic, which I rebuilt multiple times in Illustrator. Now it's scalable for different screens. I wish I had taken the time to do D3 (brand names popping from jars) but I did D3 in my other project; powernetwork.
+I constructed the map so that I could make it into a scrollytelling format. I also used ai2html in the jar graphic, which I rebuilt multiple times in Illustrator. Now it's scalable for different screens. I wish I had taken the time to do D3 (brand names popping from jars) but I did D3 in my other project, [Powernetwork](https://armyniemela.github.io/powernetwork/).
 
 I took the photos myself in a nearby store and at home, and I processed them in Photoshop. I thought the theme "Brat" was fitting here and the color scheme fits my subject. Also, while the word “brat” usually evokes feelings of school angst, brat summer is all about accepting your imperfections while embracing the chaos. I think this describes my summer - after all, I am back in school, feeling anxious about learning new stuff but at the same time enjoying the state of irresponsibility, far from my usual everyday life.
 
