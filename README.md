@@ -7,10 +7,10 @@ I did the groundwork for this project at the beginning of Lede: I completed Aaro
 
 ### Data or not? 
 
-The Jupyter notebooks (pbdata + morepbdata), where I processed one of my tables (pbmapdatanew, df), are included in the repo.
-
 I originally intended to make a piece about how [marathon results](https://aims-worldrunning.org/statistics/world_fastest_times/2024.html#world-fastest-times) [have evolved](https://www.runnersworld.com/races-places/a20823734/these-are-the-worlds-fastest-marathoners-and-marathon-courses/), specially 2000-2024. I wanted to see if there have been noticeable changes in the times of all major marathons after the introduction of a new type of running shoe, the bouncy super shoe year 2020. I scraped data for that, but I realized that the data manipulation would have taken so much work, and I didn't want it to consume my time. I found a simpler page and data a bout [marathon result progression](https://www.runnersworld.com/races-places/a20823734/these-are-the-worlds-fastest-marathoners-and-marathon-courses/) and scraped that and cleaned it but then there was no story to tell since data did not provide an answer to my original question.
-However, I did some scraping with beautiful soup, which was a skill I initially wanted to test in this project. 
+However, I did some scraping with beautiful soup, which was a skill I initially wanted to test in this project.
+
+The Jupyter notebooks (pbdata + morepbdata), where I processed my tables (pbmapdatanew, df), are included in the repo.
 
 ### Viz and brat
 
