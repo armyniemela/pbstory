@@ -5,6 +5,8 @@ I also wanted to *scrape*, but I wanted the main focus of the project to be on *
 
 I did the groundwork for this project at the beginning of Lede: Aaron's exercise 3, Make a Slide Story. So I had done the legwork, collecting peanut butter brand data from Prospect Heights' stores and also putting the stores on a map (Mapbox, Datawrapper, Illustrator).
 
+My idea was to map out the peanut butter selection in stores near me. The background is that I really like peanut butter, and during my previous visits to the USA, I was amazed by the wide variety available there—and I've missed that in Finland.
+
 ### Marathon vs peanut butter 
 
 I originally intended to make a piece about how [marathon results](https://aims-worldrunning.org/statistics/world_fastest_times/2024.html#world-fastest-times) have evolved. I wanted to see what kind of changes there have been in the fastest times of all major marathons after the introduction of a special running shoe type, the bouncy "super shoe" year 2020. The shoes are mentioned as one major reason why both men and women have improved marathon world records. 
